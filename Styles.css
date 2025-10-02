@@ -1,0 +1,37 @@
+
+h1{
+	color: #614915
+}
+
+body{
+	background-color: #614915;
+}
+
+p{
+	color: #614915;
+}
+
+.brownParagraph{
+	color: #614915;
+}
+
+table{
+	border-style: dotted;
+	border-color: #003049;
+	margin-left: auto;
+	margin-right: auto;
+}
+td{
+	border-style: dashed;
+	border-color: #669bbc;
+}
+table{
+	border-width: 4px;
+}
+td{
+	border-width: 2px;
+}
+body{
+	background-image: url("dessert-food-seamless-pattern-free-vector.jpg");
+	background-size: 10%;
+}
