@@ -1,6 +1,6 @@
 
 h1{
-	color: #614915
+	color: #252422
 }
 
 body{
@@ -8,11 +8,11 @@ body{
 }
 
 p{
-	color: #614915;
+	color: #252422;
 }
 
 .brownParagraph{
-	color: #614915;
+	color: #252422;
 }
 
 table{
@@ -32,6 +32,37 @@ td{
 	border-width: 2px;
 }
 body{
-	background-image: url("dessert-food-seamless-pattern-free-vector.jpg");
-	background-size: 10%;
+	background-image: url("");
+	background-size: 100%;
+	background-color: #babd8c;
+}
+
+img{
+	border-radius: 25px;
+}
+
+img:hover{
+	opacity: 0.75;
+}
+
+ul{
+	list-style-type: none;
+	background-color: #d2d4b6;
+	overflow: hidden;
+}
+li a{
+	float: left;
+	display: block;
+	width: 50px;
+	text-align: center;
+	padding: 15px 15px;
+	text-decoration: none;
+	color: #1a4206;
+
+}
+li a:hover{
+	background-color: #9ad67c;
+}
+.active{
+	border-bottom: 2px solid #1a4206;
 }
