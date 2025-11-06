@@ -10,20 +10,15 @@ body{
 p{
 	color: #252422;
 }
-
-.brownParagraph{
-	color: #252422;
-}
-
 table{
-	border-style: dotted;
-	border-color: #f9f7f3;
+	border-style: solid;
+	border-color: #000814;
 	margin-left: auto;
 	margin-right: auto;
 }
 td{
 	border-style: dashed;
-	border-color: #f9f7f3;
+	border-color: #000814;
 }
 table{
 	border-width: 4px;
@@ -46,6 +41,11 @@ ul{
 	background-color: #dad7cd;
 	overflow: hidden;
 }
+li{
+	display: block;
+	float: left;
+	width: 70px;
+}
 li a{
 	float: left;
 	display: block;
@@ -54,10 +54,9 @@ li a{
 	padding: 15px 15px;
 	text-decoration: none;
 	color: #1a4206;
-
 }
 li a:hover{
-	background-color: #dad7cd;
+	background-color: #6c757d;
 }
 .active{
 	border-bottom: 2px solid #1a4206;
