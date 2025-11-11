@@ -9,6 +9,7 @@ body{
 
 p{
 	color: #252422;
+	font-size: 25px;
 }
 table{
 	border-style: solid;
@@ -20,22 +21,6 @@ td{
 	border-style: dashed;
 	border-color: #000814;
 }
-table{
-	border-width: 4px;
-}
-td{
-	border-width: 2px;
-}
-body{
-	background-image: url("");
-	background-size: 100%;
-	background-color: #f9f7f3;
-}
-
-img:hover{
-	opacity: 0.75;
-}
-
 ul{
 	list-style-type: none;
 	background-color: #dad7cd;
