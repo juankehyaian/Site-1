@@ -43,6 +43,3 @@ li a{
 li a:hover{
 	background-color: #6c757d;
 }
-.active{
-	border-bottom: 2px solid #1a4206;
-}
